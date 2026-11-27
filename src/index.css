@@ -1,0 +1,4 @@
+/* Global reset lives mostly in App.css; keep this minimal for Vite entry. */
+#root {
+  min-height: 100vh;
+}
